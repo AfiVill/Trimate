@@ -1,12 +1,7 @@
-# Python cache and virtual environments
-__pycache__/
-*.py[cod]
-venv/
-.venv/
+# OS artifacts
+Thumbs.db
+.DS_Store
 
-# Local databases
-storage/*.db
-*.sqlite3
-
-# Generated reports
-reports/*.pdf
+# Editor state
+.vscode/
+.idea/
